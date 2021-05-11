@@ -14,6 +14,7 @@ const userSchema = new Schema({
   },
   gender: String,
   password: String,
+  
 });
 
 //Model
