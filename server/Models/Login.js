@@ -1,4 +1,6 @@
 const mongoose = require("mongoose");
+
+
 const LoginSchema= new mongoose.Schema({
     // initializing the post model data
 
